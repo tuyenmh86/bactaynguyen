@@ -1,0 +1,1 @@
+<?php /**PATH D:\xampp72\htdocs\mamnonhoahong\resources\views/Photos/index.blade.php ENDPATH**/ ?>

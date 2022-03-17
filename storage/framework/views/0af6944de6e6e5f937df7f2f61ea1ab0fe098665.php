@@ -1,0 +1,1 @@
+<?php /**PATH D:\xampp72\htdocs\mekendy\resources\views/frontend/inc/nav_menu.blade.php ENDPATH**/ ?>
